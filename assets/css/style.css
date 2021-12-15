@@ -9,6 +9,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* header style */
 header {
   padding: 25px 35px;
   background-color: #39a6b2;
@@ -43,6 +44,7 @@ header nav ul li a {
   font-size: 22px;
 }
 
+/* footer style */
 footer {
   background: #fce138;
   width: 100%;
@@ -66,10 +68,21 @@ footer a {
   color: #024e76;
 }
 
+/* section element style */
 section {
   padding: 60px;
 }
 
+.section-title {
+  font-size: 55px;
+  color: #024e76;
+  margin-bottom: 35px;
+  padding: 0 100px 20px 100px;
+  display: inline-block;
+  border-bottom: 3px solid;
+}
+
+/* hero/jumbotron style */
 .hero {
   height: 600px;
   background-image: url(../images/hero-bg.jpg);
@@ -98,16 +111,6 @@ section {
   margin: 5px 0px 15px 0px;
 }
 
-.form-input{
-  border: 1px solid #024e76;
-  display: block;
-  padding: 7px 15px;
-  font-size: 16px;
-  color: #024e76;
-  width: 100%;
-  margin-bottom: 15px;
-}
-
 .hero-form label {
   margin: 0.5px;
 }
@@ -120,6 +123,18 @@ section {
   font-size: 16px;
 }
 
+/* form element style */
+.form-input{
+  border: 1px solid #024e76;
+  display: block;
+  padding: 7px 15px;
+  font-size: 16px;
+  color: #024e76;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+/* steps style */
 .steps {
   text-align: center;
   background: #fce138;
@@ -149,15 +164,7 @@ section {
   font-size: 23px;
 }
 
-.section-title {
-  font-size: 55px;
-  color: #024e76;
-  margin-bottom: 35px;
-  padding: 0 100px 20px 100px;
-  display: inline-block;
-  border-bottom: 3px solid;
-}
-
+/* bottom border style */
 .primary-border {
   border-color: #fce138;
 }
@@ -166,6 +173,7 @@ section {
   border-color: #39a6b2;
 }
 
+/* what we do intro style */
 .intro {
   text-align: center;
 }
@@ -179,6 +187,7 @@ section {
   margin: 0 auto;
 }
 
+/* trainers section style */
 .trainers {
   text-align: center;
 }
@@ -226,6 +235,7 @@ section {
   text-align: right;
 }
 
+/* contact info style */
 .contact {
   text-align: center;
   background: #024e76;
