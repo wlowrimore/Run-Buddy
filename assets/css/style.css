@@ -125,6 +125,29 @@ section {
   background: #fce138;
 }
 
+.steps span {
+  font-size: 38px;
+}
+
+.steps div {
+  margin-bottom: 80px;
+}
+
+.steps img {
+  width: 15%;
+  margin: 10px 0;
+}
+
+.steps h3 {
+  color: #024e76;
+  font-size: 46px;
+  margin-top: 10px;
+}
+
+.steps p {
+  color: #39a6b2;
+  font-size: 23px;
+}
 
 .section-title {
   font-size: 55px;
@@ -142,6 +165,21 @@ section {
 .secondary-border {
   border-color: #39a6b2;
 }
+
+.intro {
+  text-align: center;
+}
+
+
+.intro p {
+  line-height: 1.7;
+  color: #39a6b2;
+  width: 80%;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+
   
   
   
