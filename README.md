@@ -12,3 +12,5 @@ https://wlowrimore.github.io/final-attempt-rb/
 
 ## Contribution
 Made with ❤️ by [William Lowrimore]
+
+### ©️2019 Run Buddy, Inc
