@@ -10,5 +10,9 @@ A website that offers fitness training services.
 ## Website
 https://wlowrimore.github.io/final-attempt-rb/
 
+https://wlowrimore.github.io/final-attempt-rb/
+
+assets\images\run_buddy_landing_page.png
+
 ## Contribution
 Made with ❤️ by [William Lowrimore]
